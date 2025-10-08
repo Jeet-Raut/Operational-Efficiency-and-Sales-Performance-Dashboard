@@ -35,6 +35,7 @@ It demonstrates the power of Excel for **data visualization, KPI monitoring, and
 Data Analyst | Excel | Power BI | Tableau | SQL | Python  
 LinkedIn : https://linkedin.com/in/JeetRaut26
 Twitter/X : https://twitter.com/JeetRautt
+Email: jeet.rautt@gmail.com
 
 ---
 
