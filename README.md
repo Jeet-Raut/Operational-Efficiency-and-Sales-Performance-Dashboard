@@ -36,15 +36,11 @@ Description: Contains transaction-level data including sales, profit, quantity, 
 
 ---
 
-## 🧩 Dashboard Preview
-*(Attach a screenshot of your dashboard here once uploaded to GitHub)*  
-
----
-
 ## 🧑‍💻 Author
 **Jeetu Raut**  
 Data Analyst | Excel | Power BI | Tableau | SQL | Python  
-[LinkedIn](https://linkedin.com) | [GitHub](https://github.com)
+LinkedIn : https://linkedin.com/in/JeetRaut26
+Twitter/X : https://twitter.com/JeetRautt
 
 ---
 
