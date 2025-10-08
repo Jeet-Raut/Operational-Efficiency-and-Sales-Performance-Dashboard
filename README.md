@@ -23,12 +23,6 @@ It demonstrates the power of Excel for **data visualization, KPI monitoring, and
 
 ---
 
-## 📂 Dataset
-Dataset Name: *Excel Report 2.xlsx*  
-Description: Contains transaction-level data including sales, profit, quantity, region, category, and shipping details for operational analysis.
-
----
-
 ## 🎯 Key Insights
 - High-profit regions exhibit operational consistency across categories  
 - Excessive discounting directly reduces profit margins in select categories  
