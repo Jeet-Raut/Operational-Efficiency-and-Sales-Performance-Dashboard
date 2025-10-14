@@ -31,7 +31,7 @@ It demonstrates the power of Excel for **data visualization, KPI monitoring, and
 ---
 
 ## 🧑‍💻 Author
-**Jeetu Raut**  
+**Jeetu Raut**
 Data Analyst | Excel | Power BI | Tableau | SQL | Python  
 LinkedIn : https://linkedin.com/in/JeetRaut26
 Twitter/X : https://twitter.com/JeetRautt
